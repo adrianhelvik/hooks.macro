@@ -1,10 +1,10 @@
 {
-  "name": "hooks.macro",
+  "name": "@adrianhelvik/hooks.macro",
   "version": "1.1.1",
-  "author": "Pier Paolo Ramon <ramonpierre@gmail.com>",
+  "author": "Pier Paolo Ramon <ramonpierre@gmail.com> and Adrian Helvik <adrianhelvik100@gmail.com>",
   "main": "build/hooks.macro.js",
   "license": "MIT",
-  "repository": "https://github.com/yuchi/hooks.macro.git",
+  "repository": "https://github.com/adrianhelvik/hooks.macro/tree/adrianhelvik_package",
   "typings": "build/hooks.macro.d.ts",
   "files": [
     "build/**"
